@@ -2,6 +2,8 @@
 
 This is a desktop scientific calculator built with Python's Tkinter library.
 
+RTU STUDENT ID: 2024-116615 :)
+
 ## Features
 - Scientific functions: sin, cos, tan, cot, sec, csc, and their inverses
 - Exponential, logarithmic, and root functions
