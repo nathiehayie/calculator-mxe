@@ -191,7 +191,7 @@ class SciCalc(tk.Tk):
             self.entry.insert(0, str(result))
         except Exception:
             self.entry.delete(0, tk.END)
-            self.entry.insert(0, 'Error')
+            self.entry.insert(0, 'Syntax Error')
 
 if __name__ == '__main__':
     SciCalc().mainloop() 
